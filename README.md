@@ -38,7 +38,7 @@ print('Swapped values are: {} {}'.format(n1,n2))
 ```
 
 ## OUTPUT:
-![](./swap.png)
+![](./swap1.png)
 
 ## RESULT:
 
